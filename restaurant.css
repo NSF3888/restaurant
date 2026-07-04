@@ -1,0 +1,32 @@
+body{
+    background-color:aquamarine;
+}
+p {
+  font-family: 'Magdelin', sans-serif;
+  font-size: 20px;
+  color: blue;
+}
+h1{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 50px;
+    color:gold;
+}
+table{
+    font-size: 20px;
+    font-family: 'Didone Room Numbers', 'Didot', 'Bodoni MT', serif;
+}
+.menu {
+    border-collapse: collapse;
+}
+
+td {
+  padding: 15px;
+}
+
+.price {
+    font-size: 20px;
+    padding-top: 150px; 
+    width: 100px;
+}
