@@ -12,6 +12,7 @@ h1{
     font-style: italic;
     font-size: 50px;
     color:gold;
+    text-align: center;
 }
 table{
     font-size: 20px;
@@ -23,6 +24,9 @@ table{
 
 td {
   padding: 15px;
+}
+thead{
+    text-align: center;
 }
 
 .price {
